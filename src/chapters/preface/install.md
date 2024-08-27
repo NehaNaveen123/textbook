@@ -544,7 +544,6 @@ Add these new settings into that outermost set of braces:
     "editor.rulers": [ 80 ],
     "editor.formatOnSave": true
   },
-  (your pre-existing settings here)
 }
 ```
 
